@@ -45,12 +45,3 @@ def task_4(): # Sets
 
     return [duplicate_fruits, individual_fruits] # Note - functions can only return one data item - so both tuples
                                                  # are contained inside a single list
-
-print("Task 1:")
-print(task_1())
-print("Task 2: ")
-print(task_2())
-print("Task 3: ")
-print(task_3())
-print("Task 4: ")
-print(task_4())
